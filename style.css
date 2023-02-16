@@ -1,0 +1,15 @@
+/* Barra de navegacion */
+
+.navbar {
+    padding: 2rem;
+    background-color: #373a3c;
+    color: #f8f9fa;
+  }
+  
+  .navbar-collapse {
+    align-items: center;
+    justify-content: space-between;  
+  }
+  
+  /* Estilos generales */
+  
